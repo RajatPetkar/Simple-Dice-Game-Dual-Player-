@@ -36,9 +36,9 @@ https://dicerollduel.netlify.app/
 To view How website Look's Like click on the above link
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/RajatPetkar/Simple-Dice-Game-Dual-Player-/blob/main/final/screenshot/Screenshot%20(19).png)
+![App Screenshot](https://github.com/RajatPetkar/Simple-Dice-Game-Dual-Player-/blob/main/final/screenshot/Screenshot%20(18).png)
+
 
 ## Contributing
 
